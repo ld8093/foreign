@@ -1,0 +1,25 @@
+# NAME: 自用foreign域名收集
+# AUTHOR: ld8093
+# REPO: https://github.com/ld8093/foreign
+# UPDATED: 2026-04-21 22:30:10
+# 不喜勿喷，请勿使用并退出此配置。
+
+DOMAIN,www.ios-repo-updates.com,日本节点
+DOMAIN,wiki.metacubex.one,新加坡节点
+DOMAIN,pluginhub.kelee.one,日本节点
+DOMAIN,whatshub.top,香港节点
+DOMAIN,mihomo.party,新加坡节点
+DOMAIN,www.mediafire.com,新加坡节点
+DOMAIN,www.wogg.net,新加坡节点
+DOMAIN,www.dvyt.com,新加坡节点
+DOMAIN-KEYWORD,altstore.io,日本节点
+DOMAIN-KEYWORD,sub-store,台湾节点
+DOMAIN-KEYWORD,uptodown,香港节点
+DOMAIN-KEYWORD,greasyfork.org,新加坡节点
+DOMAIN-KEYWORD,gitlab.com,香港节点
+DOMAIN-KEYWORD,is.gd,香港节点
+DOMAIN-KEYWORD,appstorrent.ru,香港节点
+DOMAIN-KEYWORD,psv4.userapi.com,香港节点
+DOMAIN-KEYWORD,vk.com,香港节点
+DOMAIN-KEYWORD,makeding,香港节点
+DOMAIN-KEYWORD,macked,香港节点
