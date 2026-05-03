@@ -1,7 +1,7 @@
 # NAME: 自用foreign域名收集
 # AUTHOR: ld8093
 # REPO: https://github.com/ld8093/foreign
-# UPDATED: 2026-04-30 22:41:28
+# UPDATED: 2026-05-4 01:23:48
 # 不喜勿喷，请勿使用并退出此配置。
 
 DOMAIN,www.ios-repo-updates.com
@@ -25,3 +25,4 @@ DOMAIN-KEYWORD,makeding
 DOMAIN-KEYWORD,macked
 DOMAIN-KEYWORD,browserleaks
 DOMAIN-KEYWORD,ipcheck
+DOMAIN-KEYWORD,mumuplayer
